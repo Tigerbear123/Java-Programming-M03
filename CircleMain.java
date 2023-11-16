@@ -1,9 +1,9 @@
-//This program displays the radii of three circles.
+v//This program displays the radii of three circles.
 //It will display whether or not Circle 1 is equal
 //to Circle 2 or 3.
 
 public class Main {
-	/** Main method */
+	/** Main method (Every program has one) */
 	public static void main(String[] args) {
 		// Create three Circle objects
 		Circle circle1 = new Circle(5, "red", true);
